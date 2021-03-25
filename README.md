@@ -8,14 +8,14 @@
 Start of game:
 ![](https://github.com/RobinRibaric/card-game-like-hearthstone-/blob/main/screenshots/gameboard-first.png)
 
-Waiting for opponent:
-![](https://github.com/RobinRibaric/RockPaperScissors-React-socketio-express/blob/main/screenshots/wait.png)
+turn running out of time, middle line sliding to the end turn button:
+![](https://github.com/RobinRibaric/card-game-like-hearthstone-/blob/main/screenshots/gameboard-turnRunningOutOfTime.png)
 
-Waiting for opponent to press start:
-![](https://github.com/RobinRibaric/RockPaperScissors-React-socketio-express/blob/main/screenshots/wait2.png)
+Casting a spell:
+![](https://github.com/RobinRibaric/card-game-like-hearthstone-/blob/main/screenshots/castingSpell.png)
 
-Choose hand:
-![](https://github.com/RobinRibaric/RockPaperScissors-React-socketio-express/blob/main/screenshots/2020-10-27%2012_09_17-Greenshot.png)
+Graveyard:
+![](https://github.com/RobinRibaric/card-game-like-hearthstone-/blob/main/screenshots/graveyard.png)
 
-Results-play again:
-![](https://github.com/RobinRibaric/RockPaperScissors-React-socketio-express/blob/main/screenshots/result.png)
+Attacking with minion:
+![](https://github.com/RobinRibaric/card-game-like-hearthstone-/blob/main/screenshots/attackingWithMinion.png)
